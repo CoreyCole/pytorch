@@ -144,7 +144,7 @@ python-versions = "*"
 version = "1.3.1"
 
 [metadata]
-content-hash = "6b7828bc0a7bf984ba52a1fa2c412147f6a82c9569ffebe3a956ab6c26bbd16f"
+content-hash = "1555e0b6ffc70b8c9eea57e9c6dd57593306a278dd9a8f19352e45e48b5d9210"
 platform = "*"
 python-versions = "3.6.6"
 
