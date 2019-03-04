@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pytorch"
+version = "0.1.0"
+description = ""
+authors = ["coreycole <coreyleoc@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.6.6"
+torch = "^1.0"
+torch-vision = "^0.1.6-alpha.0"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.7"
+mypy = "^0.670.0"
+autopep8 = "^1.4"
