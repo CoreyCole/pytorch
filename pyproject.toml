@@ -7,8 +7,9 @@ authors = ["coreycole <coreyleoc@gmail.com>"]
 [tool.poetry.dependencies]
 python = "3.6.6"
 torch = "^1.0"
-torchvision = "^0.2.2"
 numpy = "^1.16"
+torchvision = "^0.2.2"
+matplotlib = "^3.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.7"
